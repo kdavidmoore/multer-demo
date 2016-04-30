@@ -9,3 +9,8 @@
 6. Added front-end folder
 7. Added AngularJS to front-end
 8. Used front-end to connect to back-end and database through http requests.
+9. Added multer as npm dependency to upload files and send them to the server.
+
+## Features
+* Create and read documents in a MongoDB collection
+* Upload new files to the server
